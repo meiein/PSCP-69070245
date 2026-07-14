@@ -1,4 +1,4 @@
-[submission (1).md](https://github.com/user-attachments/files/30007687/submission.1.md)
+[submission.md](https://github.com/user-attachments/files/30007687/submission.1.md)
 # บันทึกการแก้โจทย์
 
 ไฟล์นี้ต้องเขียนโดยนักศึกษาด้วยคำพูดของตนเอง
